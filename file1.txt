@@ -1,4 +1,4 @@
 file1
-AAA
+ABA
 bbb
 ccc
