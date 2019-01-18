@@ -1,4 +1,4 @@
 file1
-ABA
+2
 change a line
 1
