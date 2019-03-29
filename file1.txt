@@ -1,4 +1,3 @@
 file1
-ABA
-BBB
-ccc
+2
+change a line
