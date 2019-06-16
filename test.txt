@@ -2,3 +2,4 @@ file1
 ABA
 BBB
 ccc
+master
