@@ -20,3 +20,5 @@ git command practice
 
 * <a href="https://blog.csdn.net/qq_26437925/article/details/88907701" target="_blank" title="">git (8) -- git lfs 大文件上传到github</a>
 
+* <a href="https://blog.csdn.net/qq_26437925/article/details/92442680" target="_blank" title="">git (9) -- git rebase 合并并解决冲突，减少merge的commit</a>
+
